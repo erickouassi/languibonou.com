@@ -3,6 +3,10 @@
 
 # Changelog
 
+* February 28, 2019
+
+Theme & plugin update
+
 * February 21, 2019
 
 Working on the design for the second theme
