@@ -3,6 +3,12 @@
 
 # Changelog
 
+* March 02, 2019
+
+Update homepage
+
+Added facebook groups to the side
+
 * February 28, 2019
 
 Theme & plugin update
