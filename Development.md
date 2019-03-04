@@ -3,6 +3,10 @@
 
 # Changelog
 
+* 3/03/2019
+
+Added 2 posts
+
 * 3/02/2019
 
 Update homepage
