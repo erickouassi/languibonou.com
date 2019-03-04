@@ -7,6 +7,10 @@
 
 Added 2 posts
 
+Extension « Simplified Social Share » désactivée
+
+Extension « AddToAny Share Buttons » activée
+
 * 3/02/2019
 
 Update homepage
