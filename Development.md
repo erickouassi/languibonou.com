@@ -34,3 +34,7 @@ Edited forum page
 * 5/7/2019
 
 Theme & plugins update
+
+* 5/8/2019
+
+Manual plugins update
