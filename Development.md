@@ -42,3 +42,7 @@ Manual plugins update
 * 5/14/2019
 
 Manual plugins update
+
+* 5/27/2019
+
+Fix minor text error
